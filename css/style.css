@@ -1,0 +1,36 @@
+body 
+{
+    background-color: #f8f9fa;
+}
+.hero-section 
+{
+    background-image: url(../img/Background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.feedbacks-section
+{
+    padding: 50px 0;
+    background-color: #4CAF50; 
+    color: white;
+    text-align: center;
+}
+.contact-section 
+{
+    padding: 50px 0;
+    background-color: #4CAF50; 
+    color: white;
+    text-align: center;
+}
+.feature-icon 
+{
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+

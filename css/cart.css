@@ -1,0 +1,51 @@
+body {
+    padding-bottom: 60px; 
+    margin-bottom: 60px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card img {
+    max-width: 100%;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+  }
+  
+  .card-text {
+    margin-bottom: 10px;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+
+  #cart-section 
+  {
+    margin-top: 75px;
+    margin-bottom: 75px;
+  }
+
+  
+  

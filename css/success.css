@@ -1,0 +1,12 @@
+body {
+    background-color: #343a40;
+    color: white;
+  }
+  .container {
+    margin-top: 100px;
+    text-align: center;
+  }
+  .btn-back {
+    background-color: #218838;
+    border-color: #218838;
+  }
